@@ -1,0 +1,54 @@
+{
+  "Header":{
+    "connect": "Connect Wallet",
+    "newPoll": "New Poll",
+    "pollList": "Poll List"
+  },
+  "CreationPage": {
+    "title": "Create Poll",
+    "connectWallet": "Connect your wallet to create a form!",
+    "CreationForm": {
+      "titleRule": "Please input a title!",
+      "titlePlaceholder": "Title",
+      "descriptionPlaceholder": "Description (Max Length: 400)",
+      "blockNumberPlaceholder": "ETH Block Number",
+      "datesRule": "Please input a start and end dates!",
+      "endDateRule": "Please input an end dates!",
+      "blockNumberRule": "Please input a block number!",
+      "optionsMinimum": "Insert at least 2 options!",
+      "optionsMaximum": "Maxium number of options reached!",
+      "optionPlaceholder": "Poll option",
+      "addOption": "Add Option",
+      "checkboxMultiple": "Multiple Option Poll",
+      "submit": "Submit",
+      "options": "Options"
+    }
+  },
+  "PollList": {
+    "title": "Poll List"
+  },
+  "PollPage": {
+    "titleResults": "Results",
+    "titleVote": "Vote"
+  },
+  "PollVote": {
+    "selectAll": "(Select All that Apply)",
+    "selectOne": "(Select Only One)",
+    "notStarted": "(Poll hasn't started yet)",
+    "voteRule":  "Please select an option!",
+    "submitVote":  "Vote",
+    "connectWallet":  "Connect Wallet to Vote",
+    "header": "Options"
+  },
+  "PollResults": {
+    "header": "Results",
+    "showVotes" : "Show Votes",
+    "hideVotes": "Hide Votes",
+    "totalVotes": "Total Votes:",
+    "columns": {
+      "wallet": "Wallet",
+      "balance": "Balance",
+      "options": "Options"
+    }
+  }
+}

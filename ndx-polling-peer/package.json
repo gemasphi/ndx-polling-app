@@ -1,0 +1,16 @@
+{
+  "name": "ndx-polling-peer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "IPFS_PATH=/media/andre/Data/Documents/Projetos/ndx-polling-peer/ipfs node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ipfs": "^0.54.4",
+    "node-pre-gyp": "^0.17.0",
+    "orbit-db": "^0.26.1"
+  }
+}

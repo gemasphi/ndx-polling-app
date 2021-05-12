@@ -1,0 +1,55 @@
+{
+    "polls":{
+      "pollInfoA":{
+         "title":"Who is your best friend?",
+         "description":"Description with less than 400 words",
+         "options":[
+            "Buzz",
+            "Andy",
+            "Woody",
+            "T-rex"
+         ],
+         "multipleOption":false,
+         "blockNumber": 12072306
+      },
+       "pollInfoB":{
+          "title":"What are your favourite colors?",
+          "description":"Description with less than 400 words",
+          "options":[
+             "Blue",
+             "Red",
+             "Orange",
+             "Black"
+          ],
+          "multipleOption":true,
+          "blockNumber": 12072306 
+       },
+       "pollInfoC":{
+          "title":"How old are you??",
+          "description":"Description with less than 400 words",
+          "options":[
+             "Very Young",
+             "Young",
+             "Average",
+             "Old",
+             "Very Old"
+          ],
+          "multipleOption":false,
+          "blockNumber": 12072306
+       }
+    },
+    "votes": {
+         "one": {
+            "wallet": "0x86772b1409b61c639eaac9ba0acfbb6e238e5f83",
+            "signature": "",
+            "vote": [0],
+            "message": ""
+          },
+          "two": {
+            "wallet": "0x8b45004bf9470e67a9960df304d1aff869a3343a",
+            "signature": "",
+            "vote": [1],
+            "message": ""
+          }
+    }
+ }
