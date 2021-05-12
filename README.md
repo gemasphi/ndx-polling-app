@@ -191,4 +191,4 @@ Feel free to make any contribution via pull requests :)
 Most of the high-level functionality of the platform is performed in the `src/api` module, so you may be able to adapt the entire project for different use cases via the modification of only this module, and the configurations at `src/api/env.ts`  
 
 # License
-GNU
+GNU.
